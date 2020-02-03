@@ -6,7 +6,7 @@
 </p>
 <br>
 <p align="center">
-Adding cities
+Weather in the city
 </p>
 <br>
 <p align="center">
